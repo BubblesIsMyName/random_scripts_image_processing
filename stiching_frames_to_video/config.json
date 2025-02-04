@@ -1,0 +1,26 @@
+{
+    "slow":{
+        "root_dir": "/home/gatis/Pictures/IG_posts/weightlifting/LIFT1/ACTUAL_ORDER/CLEAN/",
+        "movement_type": "clean",
+        "name": "LIFT1_CLEAN",
+        "frame_rate": "3",
+        "input_image_pattern": "%d.jpg",
+        "resolution_ratio": "3:5"
+    }, 
+    "medium":{
+        "root_dir": "/home/gatis/Pictures/IG_posts/weightlifting/LIFT1/ACTUAL_ORDER/CLEAN/",
+        "movement_type": "clean",
+        "name": "LIFT1_CLEAN",
+        "frame_rate": "5",
+        "input_image_pattern": "%d.jpg",
+        "resolution_ratio": "3:5"
+    }, 
+    "fast":{
+        "root_dir": "/home/gatis/Pictures/IG_posts/weightlifting/LIFT1/ACTUAL_ORDER/CLEAN/",
+        "movement_type": "clean",
+        "name": "LIFT1_CLEAN",
+        "frame_rate": "9",
+        "input_image_pattern": "%d.jpg",
+        "resolution_ratio": "3:5"
+    } 
+}

@@ -1,0 +1,29 @@
+{
+    "source_paths": [
+        "/home/gatis/Pictures/photos_wip/sort_out_23_24/"
+    ],
+    "destination": "/home/gatis/Pictures/photos_wip/3/",
+    "collected_counter": 48,
+    "last_viewed_index": 619,
+    "screen_height": 1080,
+    "info_panel": {
+        "width": 312,
+        "height": 500,
+        "font_size": 14,
+        "background_color": [
+            0,
+            0,
+            0
+        ],
+        "text_color": [
+            255,
+            255,
+            255
+        ],
+        "visible": true,
+        "position": {
+            "x": 1128,
+            "y": 264
+        }
+    }
+}

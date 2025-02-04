@@ -1,0 +1,5 @@
+command
+
+python3 pose-detection-extraction.py \
+-i /home/gatis/Documents/Test\ Files/proportions_pose/example_photos \
+-o /home/gatis/Documents/Test\ Files/proportions_pose/example_photos_updated_n_pose/  

@@ -1,0 +1,24 @@
+{
+    "source_paths": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+    ],
+    "destination": " ",
+    "collected_counter": 0,
+    "last_viewed_index": 0,
+    "screen_height": 1080,
+    "info_panel": {
+        "width": 600,
+        "height": 400,
+        "font_size": 14,
+        "background_color": [0, 0, 0],
+        "text_color": [255, 255, 255],
+        "visible": true,
+        "position": {"x": 800, "y": 0}
+    }
+}
